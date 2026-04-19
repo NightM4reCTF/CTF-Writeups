@@ -1,12 +1,4 @@
-## 👤 Author Information
-- **Author:** Z3DX
-- **Email:** ksreemosmar@gmail.com
-- **CTF Name:** BlueHens CTF 2026
-- **Challenge Name:** Glasses 2
 
----
-
-$ Channel Overview
 This writeup explores my approach to solving the "Glasses 2" OSINT challenge from BlueHens CTF 2026
 , breaking down the investigation journey, the clues analyzed, and the reasoning behind each step.
 
