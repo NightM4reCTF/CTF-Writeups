@@ -5,6 +5,7 @@ This writeup explores my approach to solving the "Glasses 2" OSINT challenge fro
 
 <img width="610" height="524" alt="Screenshot 2026-04-18 182924" src="https://github.com/user-attachments/assets/dec9d007-e5d9-4126-97b2-61a76cbc5717" />
 
+
 -- The challenge revolves around the CTFd profile picture -- 🐔🕶️
 The objective is to locate the same image without the glasses using OSINT techniques 🔍
 
