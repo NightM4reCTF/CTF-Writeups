@@ -41,10 +41,14 @@ This was done to make the search process easier and improve matching accuracy.
 
 I then uploaded the modified image to TinEye, and it successfully returned relevant matches 📌
 
+
+
 <img width="1203" height="831" alt="Screenshot 2026-04-18 184123" src="https://github.com/user-attachments/assets/33bbd1b2-ab35-4f96-adc3-16ce542c8e2f" />
 
 
+
 Then, when clicking on the result, I noticed that the image had been removed from the original source. However, I only needed the direct image URL, which was still accessible — and this was exactly what I was originally looking for.
+
 
 
 <img width="1296" height="513" alt="Screenshot 2026-04-18 184327" src="https://github.com/user-attachments/assets/35b9522f-9a07-4811-bf31-fc307343def5" />
@@ -52,6 +56,8 @@ Then, when clicking on the result, I noticed that the image had been removed fro
 
 
 🏁 Flag : UDCTF{https://www.flickr.com/photos/24049533@N00/4560602175}
+
+
 
 <img width="599" height="592" alt="Screenshot 2026-04-18 185612" src="https://github.com/user-attachments/assets/cef45971-f76f-43a6-acad-ef57554f9260" />
 
