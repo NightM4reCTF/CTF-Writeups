@@ -1,4 +1,6 @@
-🕵️ Forensics Challenge Writeup: Name Calling  | BlueHens CTF 2026
+Name Calling | BlueHens CTF 2026
+
+Solved by: Z3DX
 
 This write-up covers the "Name Calling" challenge from BlueHens CTF 2026. 
 It shows how a small clue in network traffic can lead to hidden data and eventually the flag through simple forensic analysis.
@@ -119,48 +121,3 @@ so The Flag Is : UDCTF{wh4ts_wr0ng_mcf1y}
 <img width="500" height="281" alt="1_BWvfX2atOMRxAs9vPg5YwA" src="https://github.com/user-attachments/assets/a0ab3f85-c473-4091-b3b1-3341973a85ab" />
 
 happy hack ! 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
