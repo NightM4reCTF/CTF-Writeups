@@ -1,4 +1,6 @@
-🕵️ OSINT Challenge Writeup: Glasses 2 | BlueHens CTF 2026
+Glasses 2 | BlueHens CTF 2026
+
+Solved by : Z3DX 
 
 This writeup explores my approach to solving the "Glasses 2" OSINT challenge from BlueHens CTF 2026, breaking down the investigation journey, the clues analyzed, and the reasoning behind each step.
 
