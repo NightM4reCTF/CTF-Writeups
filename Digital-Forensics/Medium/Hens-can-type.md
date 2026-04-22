@@ -40,9 +40,9 @@ Therefore, I decided to use Tshark to simplify the process:
 
 Why I used Tshark?
 
-Extraction: To quickly pull the hex bytes into a clean text file.
-Cleaning: To strip away all network headers and keep only the keystrokes.
-Automation: To prepare the data for my Python script to translate it into the final flag
+1: To quickly pull the hex bytes into a clean text file.
+2: To strip away all network headers and keep only the keystrokes.
+3: To prepare the data for my Python script to translate it into the final flag
 
 
 <img width="220" height="122" alt="one-piece-anime" src="https://github.com/user-attachments/assets/cd557cf8-afd9-4cdf-811b-528a0b5b3d30" />
