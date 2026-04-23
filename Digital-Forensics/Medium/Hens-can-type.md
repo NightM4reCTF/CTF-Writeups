@@ -89,7 +89,7 @@ with open("keyboard_only.txt", "r") as f:
  
  if key_code == 0: continue
  
- if modifier == 0x02 or modifier == 0x20: # Shift is pressed
+ if modifier == 0x02 or modifier == 0x20: 
  if key_code in shift_mapping:
  print(shift_mapping[key_code], end="")
  elif key_code in mapping:
