@@ -1,6 +1,4 @@
-
-### Reversing a Custom VM & Dodging Red Herrings 🚀
-
+CTF Write-Up LegoClicker — UMASS 2026
 **Solved by:** Wa3r
 
 **Category:** Android Native Reverse Engineering (Medium-Hard)
@@ -143,7 +141,4 @@ This challenge wasn’t hard because the crypto was complex; it was hard because
 
 Happy hacking!
 
-صلي عالنبي 🤍
-
-- **LinkedIn:** [linkedin.com/in/wa3r](https://www.google.com/search?q=https://linkedin.com/in/wa3r&authuser=1)
-- **GitHub:** [Wa3r-OffSec-Kit](https://github.com/Abdowaer098/Wa3r-OffSec-Kit)
+صلي عالنبي
