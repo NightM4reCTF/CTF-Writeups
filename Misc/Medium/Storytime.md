@@ -91,7 +91,8 @@ Therefore, the correct process at this stage is:
 2: Apply XOR using the key bluehens
 
 
-<img width="1546" height="771" alt="Screenshot 2026-04-24 021247" src="https://github.com/user-attachments/assets/ef62e006-51f4-48dc-8c90-c87b0c8ac818" />
+<img width="1543" height="775" alt="Screenshot 2026-04-24 043406" src="https://github.com/user-attachments/assets/15a6b059-ada5-43b8-a514-4594eede6592" />
+
 
 # hint4
 
@@ -99,14 +100,14 @@ Therefore, the correct process at this stage is:
 This hint refers to the word "rotting", which suggests the use of ROT cipher. The mention of "a little less than two weeks" points to the number 13 (since two weeks is 14 days), which directly indicates ROT13.
 From this, we deduce that this step requires applying ROT13 decoding to the data.
 
-<img width="1549" height="777" alt="Screenshot 2026-04-24 021434" src="https://github.com/user-attachments/assets/1e21961a-d350-4b80-abe7-945426445fbb" />
+<img width="1547" height="776" alt="Screenshot 2026-04-24 043623" src="https://github.com/user-attachments/assets/de405d36-bb76-4818-9376-0688896f1d26" />
 
 However, we notice again that after applying the XOR operation, 
 the resulting output is still not directly readable. Instead, it appears as another layer of encoded data.
 This indicates that the data was not fully decoded yet,
 and an additional Hex decoding step is required to properly convert the XOR output into a readable format before continuing with the next stage of the chain.
 
-<img width="1535" height="746" alt="Screenshot 2026-04-24 022504" src="https://github.com/user-attachments/assets/712556c7-52a5-4619-bb37-4856e19ffa3c" />
+<img width="1563" height="815" alt="Screenshot 2026-04-24 043751" src="https://github.com/user-attachments/assets/e6cd79b8-79e1-4553-9c47-82ed38acf71b" />
 
 
 
