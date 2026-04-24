@@ -27,7 +27,7 @@
 ## 🔗 Reach Us
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/company/nightm4re/)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2)]()
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](https://discord.gg/UefXQ7a5Z)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2)](https://www.facebook.com/share/1CmkspB6Ep/)
 
 > 
