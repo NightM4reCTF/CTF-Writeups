@@ -1,11 +1,9 @@
 
-
-### From Shamir’s Secret to Timing Attacks: Hacking the Nuclear Reactor — UMASS 2026 CTF Writeup 🚀
-
-### Welcome to the Nuclear Control Center
-
+UMASS 2026 CTF Bricktator Reactor Override
 **Solved by:** Wa3r
 
+
+### Welcome to the Nuclear Control Center
 **Category:** Web Exploitation (Medium-Hard)
 
 **Flag:** `UMASS{stUx_n3T_a1nt_g0T_n0th1nG_0N_th15}`
@@ -137,7 +135,4 @@ But chained together? We use the leak to get the shares, the shares to break the
 
 Happy hacking!
 
-صلي عالنبي 🤍
-
-- **LinkedIn:** [linkedin.com/in/wa3r](https://www.google.com/search?q=https://linkedin.com/in/wa3r&authuser=1)
-- **GitHub:** [Wa3r-OffSec-Kit](https://github.com/Abdowaer098/Wa3r-OffSec-Kit)
+صلي عالنبي
