@@ -1,9 +1,6 @@
-CTF Write-Up LegoClicker — UMASS 2026
-**Solved by:** Wa3r
+# LegoClicker | UMASS 2026
 
-**Category:** Android Native Reverse Engineering (Medium-Hard)
-
-**Flag:** `UMASS{br1ck_by_br1ck_y0u_r3ach3d_th3_t0p}`
+> Solved by: Wa3r
 
 ---
 
