@@ -1,5 +1,5 @@
 # Storytime| BlueHens CTF 2026
-> Solved by: Z3DX && 0xARBII
+> Solved by: Z3DX 
 
 This is a misc challenge that revolves around interpreting hints and thinking through a sequence of transformations. At first glance,
 it may seem a bit confusing, but with a structured approach,
